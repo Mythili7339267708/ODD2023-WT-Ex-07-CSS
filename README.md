@@ -163,10 +163,9 @@ End the HTML document by closing all open tags.
   ```
 
 ## OUTPUT:7(ii):
+![Screenshot 2023-12-15 045248](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/c82c6d0b-4c1a-477c-9962-2ca074a6d375)
 
-
-![Alt text](<Screenshot 2023-12-15 045248-1.png>)
-![Alt text](<Screenshot 2023-12-15 045217.png>)
+![Screenshot 2023-12-15 045217](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/af5d34fa-71bd-4d5b-a075-8f75bbea03a5)
 
 ## Ex-07(iii)-CSS Orientation-based Media Query
 
