@@ -491,5 +491,6 @@ Remember to test your website in both light and dark modes to ensure the colors 
 
 ## OUTPUT:7(vi):
 
-![Alt text](image-2.png)
-![Alt text](image-3.png)   
+  ![EX 7 (vi)](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/5320d4a2-3920-470e-b480-f345f11225a5)
+
+![EX (vi)](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/799eac1c-e18a-4a06-b736-14d133e9e100)
