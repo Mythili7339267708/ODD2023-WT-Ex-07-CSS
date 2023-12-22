@@ -325,9 +325,13 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 
 ## OUTPUT:7(iv):
 
-![Alt text](<Screenshot 2023-12-15 045459.png>)
-![Alt text](<Screenshot 2023-12-15 045513.png>)
-![Alt text](<Screenshot 2023-12-15 045522.png>)
+![Screenshot 2023-12-15 045459](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/fde065df-5a63-40dd-8da7-cab639f1e445)
+
+![Screenshot 2023-12-15 045513](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/06de225e-e9e8-4b5e-b3a9-2a3e5aa78716)
+
+![Screenshot 2023-12-15 045522](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/e783a136-2c99-4dcb-9922-aac01b6e5e71)
+
+
 ## AIM:
 
 To use a media query to change the styling of a webpage when it is printed, such as changing the background to white and hiding non-essential elements. Provide a CSS example.
