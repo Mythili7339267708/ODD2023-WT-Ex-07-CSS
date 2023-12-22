@@ -413,9 +413,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   ```
 
 ## OUTPUT:7(v):
+![Screenshot 2023-12-15 050417](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/9fcd39a1-55f1-4822-910e-a6a5e128b69d)
 
-![Alt text](<Screenshot 2023-12-15 050417.png>)
-![Alt text](<Screenshot 2023-12-15 045614.png>)
+![Screenshot 2023-12-15 050429](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/ef2ecc85-a60e-4d37-ae47-949d9e04dcb0)
 
 ## Ex-07(vi)-Dark Mode Implementation
 
