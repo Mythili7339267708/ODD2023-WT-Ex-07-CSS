@@ -235,9 +235,11 @@ Open your HTML file in a web browser and change the orientation of your device t
   </html>
 ```
 ## OUTPUT:7(iii):
-![Screenshot 2023-12-15 045420](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/d2b7bf97-8875-4426-b4ce-abd63544cfdf)
 
-![Screenshot 2023-12-15 045405](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/7a191c23-41bf-438c-a0f4-2e6f887840bd)
+![Screenshot 2023-12-15 045420](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/65032857-efa6-4b8e-8548-5955a06c9253)
+
+
+![Screenshot 2023-12-15 045405](https://github.com/Mythili7339267708/ODD2023-WT-Ex-07-CSS/assets/144260246/4a22f537-c02e-4034-8151-bbe480e12f60)
 
 ## Ex-07(iv)-CSS Responsive Typography
 
